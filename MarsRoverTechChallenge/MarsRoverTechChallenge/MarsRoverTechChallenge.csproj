@@ -42,6 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="OO\Direction.cs" />
+    <Compile Include="OO\Input.cs" />
+    <Compile Include="OO\Movement.cs" />
+    <Compile Include="OO\Parser.cs" />
+    <Compile Include="OO\Point.cs" />
+    <Compile Include="OO\Position.cs" />
+    <Compile Include="OO\Program.cs" />
+    <Compile Include="OO\Rover.cs" />
+    <Compile Include="OO\RoverInstructions.cs" />
+    <Compile Include="OO\Test.cs" />
     <Compile Include="TestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
