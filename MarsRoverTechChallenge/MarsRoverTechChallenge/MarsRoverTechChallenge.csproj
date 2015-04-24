@@ -45,6 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SingleStep\Parser.cs" />
+    <Compile Include="SingleStep\Test.cs" />
     <Compile Include="Functional\Parser.cs" />
     <Compile Include="Functional\Program.cs" />
     <Compile Include="Functional\Test.cs" />
