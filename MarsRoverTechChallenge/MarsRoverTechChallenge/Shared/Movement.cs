@@ -1,4 +1,4 @@
-namespace MarsRoverTechChallenge.OO
+namespace MarsRoverTechChallenge.Shared
 {
     public enum Movement
     {
