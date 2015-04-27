@@ -7,3 +7,15 @@ C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\MarsRoverTechChallenge\o
 C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\MarsRoverTechChallenge.pdb
 C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\Sprache.dll
 C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\Sprache.pdb
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\MarsRoverTechChallenge.csprojResolveAssemblyReference.cache
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\MarsRoverTechChallenge.dll
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\MarsRoverTechChallenge.dll
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\MarsRoverTechChallenge.pdb
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\FSharpRover.dll
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\nunit.framework.dll
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\Sprache.dll
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\FSharpRover.pdb
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\FSharpRover.xml
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\nunit.framework.xml
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\Sprache.pdb
+C:\source\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\MarsRoverTechChallenge.pdb

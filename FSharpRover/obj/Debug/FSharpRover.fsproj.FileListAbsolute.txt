@@ -1,0 +1,11 @@
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\FSharpRover.XML
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\FSharpRover.dll
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\FSharpRover.pdb
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\FSharp.Core.dll
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\nunit.framework.dll
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\FSharp.Core.xml
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\nunit.framework.xml
+C:\source\MarsRoverTechChallenge\FSharpRover\obj\Debug\FSharpRover.dll
+C:\source\MarsRoverTechChallenge\FSharpRover\obj\Debug\FSharpRover.pdb
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\Sprache.dll
+C:\source\MarsRoverTechChallenge\FSharpRover\bin\Debug\Sprache.pdb
